@@ -1,6 +1,6 @@
 <?php
 /**
- * DokuWiki Plugin Kato (Action Component)
+ * DokuWiki Plugin hubothangups (Action Component)
  *
  * @license GPL 2 http://www.gnu.org/licenses/gpl-2.0.html
  * @author  Vicen Dominguez  <twiter:@vicendomingyez> 2015-04-26
