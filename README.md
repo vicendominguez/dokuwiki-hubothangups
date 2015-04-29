@@ -19,3 +19,8 @@ Requirements
 
 * DokuWiki
 * [mandatory] PHP's cURL module
+
+Hubot-hangups info
+------------------
+
+For getting info for the hubot-hangups API and its conversationId please read this thread: https://github.com/groupby/hubot-hangups/issues/27
