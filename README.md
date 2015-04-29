@@ -7,7 +7,7 @@ Setup
 
 1. Clone repository into your DokuWiku plugins folder, making the target folder name 'hubothangups'
 ```
-$ git clone https://github.com/vicendominguez https://github.com/vicendominguez/dokuwiki-hubothangups.git
+$ git clone https://github.com/vicendominguez/dokuwiki-hubothangups.git hubothangups
 ```
 2. In your DokuWiki Configuration Settings, enter a URL to the hubot-hunagups API and the id for the chat room.
 
