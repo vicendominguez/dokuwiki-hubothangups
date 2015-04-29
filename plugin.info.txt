@@ -4,4 +4,4 @@ email  twitter:@vicendominguez
 date   2015-04-26
 name   hubothangups plugin
 desc   Notify to hangouts chat on page saves via hubot
-url    https://github.com/
+url    https://github.com/vicendominguez/dokuwiki-hubothangups.git
