@@ -23,4 +23,4 @@ Requirements
 Hubot-hangups info
 ------------------
 
-For getting fast-info of the [hubot-hangups](https://github.com/groupby/hubot-hangups) API and its conversationId fireld please read this thread: https://github.com/groupby/hubot-hangups/issues/27
+For getting fast-info of the [hubot-hangups](https://github.com/groupby/hubot-hangups) API and its conversationId field please read this thread: https://github.com/groupby/hubot-hangups/issues/27
